@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anushka!
-- 👀 I’m interested in coding and I have been trained in many languages such as C, C++, Python , Javascript and have developed simple applications in HTML, CSS.
-- 🌱 I’m currently a student at Nitte Meenakshi Institute of Technology, Bengaluru.
-- 💞️ I’m looking for internships to hone my skills.
+- 👀 Passionate about coding and constantly learning new programming languages, technologies, and frameworks to enhance my skills and knowledge.
+- 🌱 Professional experience as an Oracle Cloud Technical Consultant at PwC, contributing to successful data migration projects for clients.
+- 💞️ Completed Bachelor's degree in Computer Science last year, equipped with strong theoretical foundations and practical skills in software development.
 - 📫 You can reach me on 6363939844 or anushkapatil532000@gmail.com
 
 <!---
